@@ -87,7 +87,7 @@ Par défaut, Python va chercher les variables d'environnement dans votre systèm
 ```python
 from dotenv import load_dotenv
 
-load_dotenv()
+
 ```
 **Placez la fonction *load_dotenv()* à la ligne 14, juste avant de récupérer les valeurs.**
 
